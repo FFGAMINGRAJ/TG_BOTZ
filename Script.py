@@ -74,9 +74,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Ashishofficials>OWNER</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/RC_Anime_Group>OWNER</a></b>
   
- <b>✯ Join here : <a href=https://t.me/beautyofthemovie>Join my updateds</a></b> 
+ <b>✯ Join here : <a href=https://t.me/New_Animes_Dubbed_Hindi>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -222,7 +222,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═════════════════════ 
-𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- @beautyofthemovie</b>"""
+𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- @New_Animes_Dubbed_Hindi</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
